@@ -1,5 +1,6 @@
 # Asia-Coin    
-Asia Coin official website is still under developments
+Asia Coin official website is still under developments.
+
 A crypto to diamond exchange 
 Asia OTC will act as bridge between diamond buyers and selleres 
 
