@@ -7,6 +7,7 @@ Asia OTC will act as bridge between diamond buyers and selleres
 View diamond search engine:
 https://39740.search.idexonline.com/web/solitaires?shape=solitaire
 
+contract:
 0xf519381791c03dd7666c142d4e49fd94d3536011
 
 Telegram channel: https://t.me/asiacoingroup 
@@ -42,9 +43,6 @@ program full details will be announced.
 ASIA OTC
 https://t.me/Type2a
 
-
-Asia Exchange is a new kind of Cryptocurrency exchange that will focus on spot trading of top rated digital instruments.
-
 Initial Exchange Offer- Asia Coin
 Price was set at 0.07usd
 
@@ -71,10 +69,9 @@ P2PB2B     https://p2pb2b.io/trade/ASIA_USDT/
 INDOEX      https://international.indoex.io/trade/ASIA_USDT
             https://international.indoex.io/trade/ASIA_BTC
 
-UNISWAP   https://nomics.com/exchanges/uniswapv2-uniswap-v2/markets/0x34b93b780a31d78040deabba6599da5b27c2e058
+UNISWAP     https://app.uniswap.org/#/swap?outputCurrency=0xf519381791c03dd7666c142d4e49fd94d3536011&use=V2
 
 
-0xf519381791c03dd7666c142d4e49fd94d3536011
 
 Ranking websites:
 
@@ -93,8 +90,6 @@ https://nomics.com/assets/asia-asia-coin
 https://coincheckup.com/coins/asia-coin
 
 https://www.worldcoinindex.com/coin/asia-coin
-
-
 
 
 other info:
@@ -116,4 +111,5 @@ https://www.linkedin.com/groups/9066229
 
 ETHERSCAN:https://etherscan.io/address/0xf519381791c03dd7666c142d4e49fd94d3536011
 
+ETHPLORER:https://ethplorer.io/address/0xf519381791c03dd7666c142d4e49fd94d3536011
 
