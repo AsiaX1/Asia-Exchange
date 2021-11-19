@@ -1,7 +1,9 @@
-# Asia-Coin    
-Asia Coin official website is still under developments.
+# Asia-Coin 
 
-A crypto to diamond exchange 
+asiax.live -A crypto to diamond exchange 
+
+asiaex.live -An instant crypto to crypto anonymous exchange
+
 Asia OTC will act as bridge between diamond buyers and selleres 
 
 View diamond search engine:
