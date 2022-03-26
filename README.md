@@ -1,10 +1,12 @@
 # Asia-Coin 
+latest release - 2022/03/26
 
-asiax.live -A crypto to diamond exchange 
+[WP2022.pdf](https://github.com/AsiaX1/Asia-Exchange/files/8354686/WP2022.pdf)
+https://asiax.live -A crypto to diamond exchange 
 
-asiaex.live -An instant crypto to crypto anonymous exchange
+https://asiaex.live -An instant crypto to crypto anonymous exchange
 
-Asia OTC will act as bridge between diamond buyers and selleres 
+AsiaX OTC team will act as a bridge between diamond buyers and selleres.
 
 View diamond search engine:
 https://39740.search.idexonline.com/web/solitaires?shape=solitaire
