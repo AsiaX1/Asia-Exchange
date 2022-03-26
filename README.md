@@ -1,34 +1,34 @@
 # Asia-Coin 
+OUR WHITEPAPER
 latest release - 2022/03/26
 
 [WP2022.pdf](https://github.com/AsiaX1/Asia-Exchange/files/8354686/WP2022.pdf)
+
+
 https://asiax.live -A crypto to diamond exchange 
-
 https://asiaex.live -An instant crypto to crypto anonymous exchange
-
 AsiaX OTC team will act as a bridge between diamond buyers and selleres.
-
 View diamond search engine:
 https://39740.search.idexonline.com/web/solitaires?shape=solitaire
-
 contract:
 0xf519381791c03dd7666c142d4e49fd94d3536011
-
 Telegram channel: https://t.me/asiacoingroup 
-
-
 ERC-20 based token
-Max supply 100 (million ASIA.
-Asia Coin is the native coin of Asia Exchange.
+Max supply 100 million ASIA
+Asia Coin addresses (Token ID‘s):
+Ethereum:   0xf519381791c03dd7666c142d4e49fd94d3536011
+Binance Smart Chain:   0xebaffc2d2ea7c66fb848c48124b753f93a0a90ec
+Polygon:   0x50bCBC40306230713239Ae1BdDD5eefEEaa273Dc
+Waves:   2eBfY8ay4HUCqQTiFyZPVkKEixQXyoNz8k9UJTfDmDsS
 
+Asia Coin (ASIA)
+Asia Coin is the native coin of Asia Exchange.
 URL   www.asiax.live
 ASIA COIN holding advantages/incentives 
 Trading fees discounts
 Staking rewards
-
 The idea of our project is to become a Diamonds + spot crypto to crypto exchange providing top multilingual service 
 ( Private and institutional users )
-
 priorities:
 -low fees - 
 -loose diamonds 💎 
