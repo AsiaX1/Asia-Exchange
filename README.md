@@ -108,13 +108,11 @@ https://t.me/asiaxs
 
 https://www.linkedin.com/groups/9066229
 
-
-
-
-
-
 ETHERSCAN:https://etherscan.io/address/0xf519381791c03dd7666c142d4e49fd94d3536011
 ETHPLORER:https://ethplorer.io/address/0xf519381791c03dd7666c142d4e49fd94d3536011
 
 BSCscan:https://www.bscscan.com/token/0xebaffc2d2ea7c66fb848c48124b753f93a0a90ec
 
+Polygon scan:https://polygonscan.com/token/0x50bcbc40306230713239ae1bddd5eefeeaa273dc
+
+WAVES EXPLORER:https://wavesexplorer.com/assets/2eBfY8ay4HUCqQTiFyZPVkKEixQXyoNz8k9UJTfDmDsS
