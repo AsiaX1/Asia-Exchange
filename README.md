@@ -6,7 +6,7 @@ latest release - 2022/03/26
 
 https://asiacoin.city A digital diamond city (in development)
 https://asiax.live -A crypto to diamond exchange.
-https://asiaex.live -An instant mixed crypto to crypto exchange.
+https://asiaex.pro -Perpetual crypto exchange.
 https://coinads.cash A crypto ad network. 
 AsiaX OTC team will act as a bridge between diamond buyers and selleres.
 View the diamond search engine:
