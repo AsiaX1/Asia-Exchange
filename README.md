@@ -10,7 +10,7 @@ https://asiaex.live -An instant mixed crypto to crypto exchange.
 https://coinads.cash A crypto ad network. 
 AsiaX OTC team will act as a bridge between diamond buyers and selleres.
 View the diamond search engine:
-https://39740.search.idexonline.com/web/solitaires?shape=solitaire
+https://39740.search.diamondtradingservice.com/web/solitaires?shape=solitaire
 contract:
 0xf519381791c03dd7666c142d4e49fd94d3536011
 Telegram channel: https://t.me/asiacoingroup 
@@ -48,18 +48,10 @@ program full details will be announced.
 ASIA OTC
 https://t.me/Type2a
 
-Initial Exchange Offer- Asia Coin
-Price was set at 0.07usd
-
 Asia Exchange
 
 AsiaX
 WP
-https://whitepaper.io/coin/asia-coin
-
-[Asia-Exchange-Whitepaper.pdf](https://github.com/AsiaX1/Asia-Exchange/files/6647520/Asia-Exchange-Whitepaper.pdf)
-
-
 
 All links lead to ASIA
 https://www.asiax.live
@@ -77,6 +69,7 @@ INDOEX      https://international.indoex.io/trade/ASIA_USDT
 UNISWAP     https://app.uniswap.org/#/swap?outputCurrency=0xf519381791c03dd7666c142d4e49fd94d3536011&use=V2
 
 
+Now available on PancakeSwap
 
 Ranking websites:
 
