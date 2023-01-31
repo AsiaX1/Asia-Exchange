@@ -89,6 +89,8 @@ https://coincheckup.com/coins/asia-coin
 
 https://www.worldcoinindex.com/coin/asia-coin
 
+https://www.coinlore.com/coin/asia-coin
+
 
 other info:
 
